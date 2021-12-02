@@ -1,5 +1,4 @@
-<img width="1768" alt="HomeLetmeask" src="">
-
+<img width="1768" alt="HomeLetmeask" src="https://user-images.githubusercontent.com/5294488/144521000-0580fdcb-5f6b-418a-9728-86e7bcab1563.png">
 
 <h1 align="left">
   Podcastr
